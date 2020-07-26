@@ -1014,7 +1014,7 @@ a[href^="mailto:"] {
     #menu__toggle + .menu__btn:after {
         top: calc(100% - 3px);
     }
-    #menu__toggle + l.menu__btn span {
+    #menu__toggle + .menu__btn span {
         top: 50%;
         transform: translateY(-50%);
     }
